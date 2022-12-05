@@ -1,0 +1,13 @@
+{
+  "name": "SX1280HLA",
+  "apiVersion": "1.0.0",
+  "author": "Fabian Nawratil",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "SX1280Decode": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
